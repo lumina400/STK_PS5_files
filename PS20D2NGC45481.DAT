@@ -1,0 +1,29 @@
+#Cepheid data from H0 KP, filtered and reformatted Huib van Langevelde, May 2020
+#Data retrieved from https://old.ipac.caltech.edu/H0kp/H0KeyProj.html
+#As described in Freedman et al., 2001 ApJ, Vol 553, 1, p47, 2001  and references therein
+# for source NGC4548; from file n4548t9.dat
+ID   P     mv     
+C01   33.2   26.18
+C02   18.4   26.46
+C03   24.8   26.08
+C04   29.5   25.47
+C05   24.2   26.30
+C06   19.1   26.56
+C07   17.1   26.39
+C08   38.2   25.97
+C09   18.8   25.96
+C10   23.7   26.31
+C11   29.4   25.68
+C12   18.0   26.77
+C13   31.0   25.56
+C14   17.5   26.13
+C15   17.5   26.64
+C16   35.0   26.50
+C17   16.5   26.44
+C18   17.5   26.39
+C19   28.2   25.74
+C20   16.9   26.07
+C21   21.2   25.69
+C22   20.2   25.88
+C23   23.3   25.72
+C24   17.0   26.28
